@@ -1,0 +1,34 @@
+/* Centrerar text och video */
+body {
+    text-align: center;
+    background-color: #f0f0f0;
+    background-size: cover;
+
+}
+
+/* Förgrund och bakgrundsfärg baserat på filminnehåll */
+header {
+    background-color: #006652;
+    color: white;
+    padding: 20px;
+}
+
+/* Horisontell länklista */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+/* Footer styling */
+footer {
+    height: 50px;
+    background-color: #333;
+    color: rgb(147, 145, 145);
+    text-align: center;
+    line-height: 50px;
+}
